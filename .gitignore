@@ -1,0 +1,13 @@
+*.db
+*.vcxproj.filters
+*.suo
+*.user
+*.obj
+*.dll
+.vs/
+ipch/
+[Dd]ebug/
+[Rr]elease/
+x86/
+x64/
+Win32/
